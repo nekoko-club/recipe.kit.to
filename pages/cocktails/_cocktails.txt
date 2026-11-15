@@ -1,0 +1,460 @@
+//-----------------------------------------------------------------------------
+//	recipe.kit.to - cocktails
+//-----------------------------------------------------------------------------
+//	[資料]
+//	画像サイズ:120x120
+//	1 oz = 25 ml
+//cdefghijklmnopqrstuvwxyz
+//	cock 01 07 00 00 0001a.png
+//-----------------------------------------------------------------------------
+//	01	ジン
+//-----------------------------------------------------------------------------
+[casino]	41	辛
+cock010303000001
+	Dry gin 1grass
+	Maraschino 2dash
+	orange bitter's 2dash 
+	Lemon juice 2dash
+
+[Earthquke]	37	辛
+cock010503000001
+	Dry gin 1/3
+	whisky 1/3
+	Pernod 1/3
+
+[Gibson]	36	中
+cock010703000001
+	Dry gin 5/6
+	Dry vermouth 1/6
+	Cocktail onion
+
+[Gin & Tonic]	14	中
+cock010702000001
+	Gin 45ml
+	Tonic water to fill
+	Lime slice
+
+[Gin Rickey]	14	辛
+cock010703000002
+	Dry gin 45ml
+	Lime juice 20ml
+	soda 
+
+[Martini(Dry)]	35	ドライ
+cock011303000001
+	Dry gin      4/5
+	Dry vermouth 1/5
+
+[Pink Lady]	20	中
+cock011602000001
+	Dry gin			3/4
+	Grenadine syrup	1/4
+	Lemon juice		1 tablespoons
+	Egg white
+
+[Singapore Sling]	17	中
+cock011902000001
+	Dry gin			45ml
+	Lemon juice		20ml
+	Cherry brandy	20ml
+	Fill with soda
+	Orange, lemon, lime slice
+
+[Spring Feeling]	32	中
+cock011902000002
+	Dry gin 2/4
+	Green chartreuse 1/4
+	Lemon juice 1/4
+
+[Tom Collins]	16	中
+cock012002000001
+	Dry gin		60ml
+	Lemon juice	20ml
+	Sugar		1tsp
+	Fill with club soda
+
+[Union Jack]	35	中
+cock012102000001
+	Dry gin 	2/3
+	Creme de Violet 1/3
+
+//-----------------------------------------------------------------------------
+//	02	ラム
+//-----------------------------------------------------------------------------
+[Bacardi]	24	中
+cock020202000001
+	Bacardi rum		3/4
+	Lime juice		1/4
+	Grenadine syrup	1dash
+
+[Blue Hawaii]	17	中
+cock020202000002
+	White rum		30ml
+	Pineapple juice	30ml
+	Lemon juice		15ml
+	Blue curacao	15ml
+
+[Cuba Libre]	12	中
+cock020302000001
+	(自由キューバ)
+	Light rum	45ml
+	Lime juice	10ml
+	Fill with cola
+
+[Hot buttered Rum]	9	中
+cock020802000001
+	Dark rum	45 ml
+	Butter		1 tsp
+	Cube Sugar	1
+	Fill with hot water
+	
+[Hot buttered Rum Cow]	9	中
+cock020800000001
+	Dark rum	40 ml
+	Butter		1 tablespoons
+	Fill with hot milk
+
+[Tom & Jerry]	9	中
+cock022002000001
+	Dark rum	30ml
+	Brandy		20ml
+	Sugar		1 tablespoons
+	1 Egg
+	Hot water, milk, or coffee
+	
+[X.Y.Z]	26	中
+cock022402000001
+	Light rum 2/4
+	White curacao 1/4
+	Lemon juice 1/4
+
+//-----------------------------------------------------------------------------
+//	03	テキーラ
+//-----------------------------------------------------------------------------
+[Brave Bull]	32	中
+cock030202000001c
+	Tequila		40ml
+	Kahlua		20ml
+	Twist of lemon peel
+
+[Margarita]	26	中
+cock031302000002c
+	Tequila		2/4
+	Cointreau	1/4
+	Lime juice	1/4
+	Serve in a salt rimmed glass
+
+[Mockingbird]	22	中
+cock031302000001c
+	Tequila			2/4
+	Lemon juice		1/4
+	Creme de menthe	1/4
+
+[Silk Stocking]	21	あま
+cock031901000001c
+	Tequila			2/4
+	Heavy cream		1/4
+	Creme de cacao	1/4
+	Grenadine syrup	1dash
+
+[Tequila Sunrise]	12	中
+cock032002000001c
+	Tequila			45ml
+	Orange juice	90ml
+	Grenadine syrup	2tsp
+	Do not stir
+	Garnish with an orange slice
+
+//-----------------------------------------------------------------------------
+//	04	ウォッカ
+//-----------------------------------------------------------------------------
+[Balalaika]	26	中
+cock040202000001c
+	Vodka		2/4
+	Cointreau	1/4
+	Lemon juice	1/4
+
+[Bloody Mary]	12	中
+cock040202000002c
+	Vodka		45ml
+	Fill with tomato juice
+	Garnish with a lemon
+
+[Chi-Chi]	7	あま
+cock040301000001c
+	Vodka				30ml
+	Pineapple juice		80ml
+	Cream of coconut	45ml
+	Cruched ice
+	Garnish with a pineapple
+	
+[Kami-Kaze]	27	ドライ
+cock041103000001c
+	Vodka				4/3
+	White curacao		1tsp.
+	Lime Juice			1/4
+
+[Road Runner]	23	あま
+cock041801000001c
+	Vodka				2/4
+	Amaretto			1/4
+	Cream of coconut	1/4
+	Top with nutmeg
+
+[Salty Dog]	13	中
+cock041902000001c
+	Vodka	45ml
+	Serve in a salt rimmed glass
+	Fill with grapefruit juice
+
+//-----------------------------------------------------------------------------
+//	05	ウイスキー
+//-----------------------------------------------------------------------------
+[California Lemonade]	11	中
+cock050302000001c
+	bourbon 45ml
+	Lemon juice 20ml
+	Lime juice 10ml
+	Grenadine syrup 1tsp
+	Sugar 1tsp
+	Soda
+
+[Godfather]	34	中
+cock050702000001c
+	Scotch		45ml
+	Amaretto	15ml
+	
+[Klondike Cooler]	11	中
+cock051102000001c
+	Whiskey	45ml
+	Orange juice 20ml
+	ginger ale
+	Horse's Neck Style Orange
+
+[Los Angeles]	16	中
+cock051202000001c
+	American Blended Whiskey	3/4
+	Lemon juice					1/4
+	Sweet vermouth				1dash
+	Powdered sugar				1tsp
+	1 egg
+	Shake well
+
+[Manhattan]	32	中
+cock051302000001c
+	Whiskey				3/4
+	Sweet vermouth		1/4
+	Angostura bitters	1dash
+	Garnish with maraschino cherry
+
+[Rob Roy]	32	中
+cock051802000001c
+	Scotch				3/4
+	Sweet vermouth		1/4
+	Angostura bitters	1dash
+	Garnish with maraschino cherry
+
+[Shamrock]	27	中
+cock051902000001c
+	Irish whiskey			1/2
+	Dry vermouth			1/2
+	Green creme de menthe	2dash
+	Green chartreuse		2dash
+
+//-----------------------------------------------------------------------------
+//	06	ブランデー
+//-----------------------------------------------------------------------------
+[Alexander]	23	あま
+cock060101000001c
+	Brandy			2/4
+	Creme de cacao	1/4
+	Heavy cream		1/4
+	Shake well
+
+[Between the Sheets]	32	中
+cock060202000001c
+	Brandy		25ml
+	Light rum	25ml
+	Cointreau	25ml
+	Lemon juice	25ml
+
+[Chicago]	25	中
+cock060302000001c
+	Brandy 45ml
+	Orange curacao	2dash
+	Angostura bitters 1dash
+	Champagne
+
+[Diki-Diki]	27	中
+cock060402000001c
+	Apple brandy		4/6
+	Dry gin				1/6
+	Grapefruit juice	1/6
+
+[Honeymoon]	24	中
+cock060802000001c
+	Apple brandy	1/3
+	Benedictine		1/3
+	Lemon juice		1/3
+	Orange curacao	1tsp
+
+[Nikolaschka]	40	中
+cock061402000001c
+	Brandy 
+	Sugar 1tsp					
+	LemomSlice
+
+[Sidecar]	26	中
+cock061902000001c
+	Brandy		2/4
+	Cointreau	1/4
+	Lemon juice	1/4
+	
+[Stinger]	31	中
+cock061902000002c
+	Brandy 2/3
+	Creme de menthe 1/3
+
+//-----------------------------------------------------------------------------
+//	07	ワイン
+//-----------------------------------------------------------------------------
+[American Lemonade]	3	中
+cock070102000001c
+	Red Wine30ml
+	Lemon juice 40ml
+	Sugar 1tsp
+	Water
+
+[Bellini]	9	中
+cock070202000001c
+	Champagne		2/3
+	Peach schnapps	1/3
+
+[Kir Royal]	14	中
+cock071102000001c
+	Champagne		4/5
+	Creme de cassis	1/5
+
+[Mimosa]	7	中
+cock071302000001c
+	Chilled champagne	1/2
+	Orange juice		1/2
+
+[Port Wine Flip]	9	中
+cock071602000001c
+	Port wine	45ml
+	Sugar		1tsp
+	1 Egg
+	Shake well
+	Top with nutmeg
+
+[Soul Kiss]	13	中
+cock071902000001c
+	Dubonnet		1/6
+	Orange juice	1/6
+	Dry vermouth	2/6
+	Sweet vermouth	2/6
+
+//-----------------------------------------------------------------------------
+//	08	ビア
+//-----------------------------------------------------------------------------
+[Black Velvet]	9	中
+cock080202000001c
+	Stout beer	1/2
+	Champagne	1/2
+
+[Dog's Nose]	10	ドライ
+cock080403000001c
+	Dry gin		45ml
+	Fill with draught beer
+
+[Red Bird]	13	中
+cock081802000001c
+	Vodka			40ml
+	Tomato juice	60ml
+	Fill with beer
+
+[Red Eye]	2	中
+cock081802000002c
+	Beer			1/2
+	Tomato juice	1/2
+
+[Shandy Gaff]
+cock081902000001c
+	Draft beer		1/2
+	Fill with ginger ale
+
+//-----------------------------------------------------------------------------
+//	09	リキュール
+//-----------------------------------------------------------------------------
+[Angel's Kiss]	20	あま
+cock090101000001c
+	White creme de cacao	1/4
+	Sloe gin				1/4
+	Brandy					1/4
+	Cream					1/4
+	Pour ingredients carefully
+	
+
+[Angel's Tip]	20	あま
+cock090101000002c
+	Creme de cacao	3/4
+	Cream					1/4
+	Pour ingredients carefully
+	
+[Angel's Wing]	22	あま
+cock090101000003c
+	Creme de cacao	1/2
+	PrunelleBrandy 1/2
+	Cream					
+	Pour ingredients carefully
+	
+[Cherry Blossom]	28	あま
+cock090301000001c
+	Cherry Brandy 1/2
+	Brandy 1/2
+	Orange curacao 2dash					
+	Grenadine syrup 2dash
+	Lemon juice 2dash
+	
+[Fifth Avenue]	17	あま
+cock090601000001c
+	Creme de cacao	1/3
+	Apricot brandy	1/3
+	Cream			1/3
+	Pour ingredients carefully
+
+[Golden Cadillac]	18	あま
+cock090701000001c
+	Galliano				1/3
+	White creme de cacao	1/3
+	Cream					1/3
+
+[Grasshopper]	14	あま
+cock090701000002c
+	Green creme de menthe	1/3
+	White creme de cacao	1/3
+	Light cream				1/3
+
+[Pink Squirrel]	17	あま
+cock091601000001c
+	Creme de noyau			1/3
+	White creme de cacao	1/3
+	Cream					1/3
+	Shake well
+	
+[Rainbow]	38	あま
+cock091801000001c
+	Creme de cacao 1/7
+	Creme de Violet 1/7
+	Maraschino 1/7
+	Benedictine 1/7
+	Chartreuse Yellow 1/7
+	Chartreuse Green 1/7
+	Brandy 1/7
+	
+[Stars & Stripes]	35	あま
+cock091901000001c
+	Creme de cassis 1/3
+	Maraschino 1/3
+	Chartreuse Green 1/3
